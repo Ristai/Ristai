@@ -24,7 +24,7 @@ const developer = {
     frontEnd: ["React", "HTML", "CSS", "Bootstrap"],
     mobileApp: ["Flutter", "Dart"],
     backEnd: ["Java", "C#", "Python"],
-    databases: ["MySQL", "SQL Server", "SQLite"],
+    databases: ["MySQL", "SQL Server"],
   },
   currentFocus: "Full Stack & Mobile Development",
   location: "Vietnam 🇻🇳",
@@ -60,7 +60,6 @@ developer.sayHi();
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -73,7 +72,6 @@ developer.sayHi();
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -133,7 +131,7 @@ developer.sayHi();
 | **Frontend** | React, HTML5, CSS3, Bootstrap, JavaScript |
 | **Mobile** | Flutter, Dart, Android |
 | **Backend** | Java, C#, .NET, Node.js, Python |
-| **Databases** | MySQL, SQL Server, SQLite |
+| **Databases** | MySQL, SQL Server |
 | **Tools** | Git, GitHub, VS Code, Visual Studio, Android Studio |
 | **Other** | REST API, Postman, MVC Architecture |
 
