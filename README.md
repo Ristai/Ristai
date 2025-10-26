@@ -1,4 +1,8 @@
 <div align="center">
+  
+  <!-- Sakura Animation -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C853&center=true&vCenter=true&width=940&lines=Hi+there!+%F0%9F%91%8B+I'm+Ristai;Full+Stack+Developer;Mobile+%26+Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
@@ -118,6 +122,63 @@ developer.sayHi();
 
 **Tech Stack**: Flutter • Dart • SQLite • REST API • FL Chart
 
+---
+
+### 🎉 [Event Management System](https://github.com/Ristai/Event-Management)
+
+<a href="https://github.com/Ristai/Event-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ristai&repo=Event-Management&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" />
+</a>
+
+**A full-featured web application for managing events and registrations**
+
+🔹 Event creation and management  
+🔹 User registration system  
+🔹 Event calendar and scheduling  
+🔹 Admin dashboard  
+🔹 Responsive design  
+🔹 Real-time updates  
+
+**Tech Stack**: React • JavaScript • HTML • CSS • Bootstrap
+
+---
+
+### 🌾 [WebNongNghiep - Agriculture Web Platform](https://github.com/Ristai/WebNongNghiep)
+
+<a href="https://github.com/Ristai/WebNongNghiep">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ristai&repo=WebNongNghiep&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" />
+</a>
+
+**Agricultural e-commerce and information platform**
+
+🔹 Product marketplace  
+🔹 Farmer-buyer connection  
+🔹 Agricultural news and tips  
+🔹 Product catalog management  
+🔹 User authentication  
+🔹 Modern UI/UX design  
+
+**Tech Stack**: HTML • CSS • JavaScript • Bootstrap • MySQL
+
+---
+
+### ♟️ [WedChess - Online Chess Game](https://github.com/Ristai/WedChess)
+
+<a href="https://github.com/Ristai/WedChess">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ristai&repo=WedChess&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" />
+</a>
+
+**Interactive online chess game with multiplayer support**
+
+🔹 Real-time multiplayer gameplay  
+🔹 Chess rules validation  
+🔹 Move history tracking  
+🔹 Timer and game modes  
+🔹 Clean and intuitive interface  
+🔹 Responsive board design  
+
+**Tech Stack**: JavaScript • HTML • CSS • WebSocket
+
 </div>
 
 ---
@@ -206,6 +267,12 @@ Git & Version Control  █████████████████░░
   
   ### 🌟 Show some ❤️ by starring some repositories!
   
+  <!-- Sakura Footer Animation -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
   
 </div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&animation=twinkling&fontAlignY=72&text=Thanks%20for%20visiting!%20🌸&fontSize=35&fontColor=fff&fontAlign=50" />
