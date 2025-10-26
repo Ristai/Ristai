@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C853&center=true&vCenter=true&width=940&lines=Hi+there!+%F0%9F%91%8B+I'm+Ristai;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C853&center=true&vCenter=true&width=940&lines=Hi+there!+%F0%9F%91%8B+I'm+Ristai;Full+Stack+Developer;Mobile+%26+Web+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  ### 💻 Software Developer | 📱 Flutter Enthusiast | 🚀 Problem Solver
+  ### 💻 Full Stack Developer | 📱 Mobile & Web Specialist | 🚀 Problem Solver
   
   [![GitHub followers](https://img.shields.io/github/followers/Ristai?style=social)](https://github.com/Ristai)
   [![GitHub stars](https://img.shields.io/github/stars/Ristai?style=social)](https://github.com/Ristai)
@@ -15,53 +15,73 @@
 
 ## 🚀 About Me
 
-```dart
-class Developer {
-  final String name = "Ristai";
-  final String role = "Software Developer";
-  final List<String> languages = ["Dart", "Flutter", "SQL"];
-  final String currentFocus = "Mobile App Development";
-  final String location = "Vietnam";
+```javascript
+const developer = {
+  name: "Ristai",
+  role: "Full Stack Developer",
+  code: ["JavaScript", "Java", "C#", "Dart", "Python"],
+  technologies: {
+    frontEnd: ["React", "HTML", "CSS", "Bootstrap"],
+    mobileApp: ["Flutter", "Dart"],
+    backEnd: ["Java", "C#", "Python"],
+    databases: ["MySQL", "SQL Server", "SQLite"],
+  },
+  currentFocus: "Full Stack & Mobile Development",
+  location: "Vietnam 🇻🇳",
   
-  void sayHi() {
-    print("Thanks for dropping by! Let's build something amazing together.");
+  sayHi: function() {
+    console.log("Thanks for dropping by! Let's build something amazing together 🚀");
   }
-}
+};
+
+developer.sayHi();
 ```
 
 - 🔭 Currently working on **Moni App** - Personal Finance Management Application
-- 🌱 Learning advanced **Flutter development** and **API integration**
+- 🌱 Learning advanced **Full Stack Development** and **Mobile App Development**
 - 💡 Passionate about creating **clean, efficient, and user-friendly applications**
-- 🎯 Goal: Build impactful mobile applications that solve real-world problems
+- 🎯 Goal: Build impactful web & mobile applications that solve real-world problems
+- 💻 Tech interests: **React**, **Flutter**, **Java**, **C#**, **Python**
 - 📫 How to reach me: Check out my GitHub profile
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Backend
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### ⚙️ Backend Development
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 📦 Libraries & Packages
-- **State Management**: StatefulWidget, setState
-- **Charts**: FL Chart
-- **Database**: sqflite, shared_preferences
-- **UI**: Material Design 3, Font Awesome Flutter
-- **API**: http, flutter_dotenv
-- **Export**: Excel, path_provider
-- **Auth**: pinput (OTP verification)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -106,13 +126,28 @@ class Developer {
 
 ## 💼 Skills & Expertise
 
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React, HTML5, CSS3, Bootstrap, JavaScript |
+| **Mobile** | Flutter, Dart, Android |
+| **Backend** | Java, C#, .NET, Node.js, Python |
+| **Databases** | MySQL, SQL Server, SQLite |
+| **Tools** | Git, GitHub, VS Code, Visual Studio, Android Studio |
+| **Other** | REST API, Postman, MVC Architecture |
+
+</div>
+
+### 📈 Proficiency Levels
+
 ```text
-Mobile Development    ████████████████████░   95%
-Flutter & Dart        ███████████████████░░   90%
-Database Design       ████████████████░░░░░   80%
-REST API Integration  ███████████████░░░░░░   75%
-UI/UX Design          ███████████████░░░░░░   75%
-Git & Version Control █████████████████░░░░   85%
+Full Stack Development ███████████████████░░   90%
+Mobile Development     ████████████████████░   95%
+Frontend (React/HTML)  ██████████████████░░░   85%
+Backend (Java/C#)      ██████████████████░░░   85%
+Database Management    ████████████████░░░░░   80%
+Git & Version Control  █████████████████░░░░   85%
 ```
 
 ---
